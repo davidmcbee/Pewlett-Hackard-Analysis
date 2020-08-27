@@ -122,6 +122,10 @@ This modifies and mitigates the conclusions but 72,458 is still a large number o
 All the benefits of a mentorship program, stated earlier, sill hold but, at 47 to 1 a large recruiting effort will still be needed 
 
 
+The SQL generated for each of these three options is available here (https://github.com/davidmcbee/Pewlett-Hackard-Analysis/tree/master/PewLett-Hakard-Analysis/Queries)
+
+
+
 
 
 
