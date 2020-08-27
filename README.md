@@ -34,7 +34,7 @@ A PostgreSQL database was installed, Postgres version 11.9. This installation in
 1. I started an initial Exploratory data Analysis (EDA) to understand the data; number of rows, columns, data types, possible joins, etc. As part of EDA, I developed an
 Entity Relationship Diagram (ERD), technically, a physical ERD. This was used as a design for the database. It laid out the tables, attributes, data types and relationships
 between the tables. See here.
-![]('https://github.com/davidmcbee/Pewlett-Hackard-Analysis/blob/master/PewLett-Hakard-Analysis/Data/ERD.png')
+![](https://github.com/davidmcbee/Pewlett-Hackard-Analysis/blob/master/PewLett-Hakard-Analysis/Data/ERD.png)
 
 
 2.I created a query to obtain retiring employees by title. This also included a query to make sure this was a unique list.
