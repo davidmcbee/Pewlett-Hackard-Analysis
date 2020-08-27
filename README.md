@@ -112,13 +112,13 @@ Note that the original unique_titles file had 90,398  and the unique_titles1 fil
 This leads us to the retiring_titles2 file, shown here.
 ![](https://github.com/davidmcbee/Pewlett-Hackard-Analysis/blob/master/PewLett-Hakard-Analysis/Data/retiring_titles2.png)
 
-The redo of the retiring_titles file. The original retiring_titles file counts summed to 90,388, while the retiring_titles1 file sums to,
-you guessed it, 33,118. I believe this is the correct number.
+The redo of the retiring_titles file. The original retiring_titles file counts summed to 90,388. The retiring_titles1 file sums to 33,118 and the retiring_titles2 file sums to 72,458..
 
 Regarding the mentorship_eligibility file. This is not changed and the number of mentors still stands at 1549. 
 
-This modifies and mitigates the conclusions but 33,118 is still a large number of retiree's to replace . It brings the ratio of mentors to retiree's down from 58 to 1 to 21.3 to 1.
-All the benefits of a mentorship program, stated earlier, sill hold but, at 21.3 to 1 a large recruiting effort will still be needed 
+This modifies and mitigates the conclusions but 72,458 is still a large number of retiree's to replace . It brings the ratio of mentors to retiree's to 47 to 1.
+
+All the benefits of a mentorship program, stated earlier, sill hold but, at 47 to 1 a large recruiting effort will still be needed 
 
 
 
