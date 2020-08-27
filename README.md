@@ -84,9 +84,9 @@ The reason I think it is flawed is that it did not account for two items:
 
 * The initial query did not filter for active employees; those with a to_date of 999-01-01. Without this we are counting no longer active employees.
 
-#### Corrections
+#### Corrections With Hire Date
 Looking at these redone files shown here
-![]('')
+![](https://github.com/davidmcbee/Pewlett-Hackard-Analysis/blob/master/PewLett-Hakard-Analysis/Data/redone%20files_without_hire_date.png)
 
 If you take a look at ret_titles1 after this filtering one gets 33,118 value rows. This is the number of people that are in this soon to retire group. Further,
 the unique_titles1 file is no longer needed as it is now already unique. The number of rows in the unique_titles1 file is 33,118. This is the same as the ret_titles1 file.
@@ -103,6 +103,9 @@ This modifies and mitigates the conclusions but 33,118 is still a large number o
 All the benefits of a mentorship program, stated earlier, sill hold but, at 21.3 to 1 a large recruiting effort will still be needed 
 
 
+#### Corrections without Hire Date
 Looking at these redone files shown here
+![](https://github.com/davidmcbee/Pewlett-Hackard-Analysis/blob/master/PewLett-Hakard-Analysis/Data/redone%20files_without_hire_date.png)
+
 
 
