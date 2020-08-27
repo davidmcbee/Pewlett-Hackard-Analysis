@@ -45,6 +45,7 @@ Those actual files are available here. ('https://github.com/davidmcbee/Pewlett-H
 
 ## Results
 The answer came from 4 files, shown here
+
 ![](https://github.com/davidmcbee/Pewlett-Hackard-Analysis/blob/master/PewLett-Hakard-Analysis/Data/saved_analysis_files.png)
 and available here ('https://github.com/davidmcbee/Pewlett-Hackard-Analysis/tree/master/PewLett-Hakard-Analysis/Data')
 
