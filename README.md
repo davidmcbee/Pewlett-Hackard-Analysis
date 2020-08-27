@@ -80,8 +80,8 @@ Even with a robust mentorship program an intensive recruiting effort is needed.
 ### Flawed Analysis
 BUT, and its a big but, I think the above analysis is flawed. I presented it as is to comply with, and match with, the reference examples in the challenge instructions.
 The reason I think it is flawed is that it did not account for two items:
-* the initial query, that produced ret_titles did not account for hire date. A valid hire date is important. It is probably the case that a number of workers are older but started
-later then 1985. It is unclear but doubtful if all of those people would be offered a retirement package, or even desire to retire.
+* the initial query, that produced ret_titles did not account for hire date. The queston whether ot include the hire date or not is determined by whether the retirement package wants to limet the package to those born between 1952 and 1955 and hired between 1985 and 1988 or not differentiate for when those people were hired. A valid hire date is important. It is the case that a number of workers are older but started later then 1985. It is unclear but doubtful if all of those people even desire to retire. Both options are presented below.
+
 * The initial query did not filter for active employees; those with a to_date of 999-01-01. Without this we are counting no longer active employees.
 
 #### Corrections
@@ -102,5 +102,7 @@ Regarding the mentorship_eligibility file. This is not changed and the number of
 This modifies and mitigates the conclusions but 33,118 is still a large number of retiree's to replace . It brings the ratio of mentors to retiree's down from 58 to 1 to 21.3 to 1.
 All the benefits of a mentorship program, stated earlier, sill hold but, at 21.3 to 1 a large recruiting effort will still be needed 
 
+
+Looking at these redone files shown here
 
 
