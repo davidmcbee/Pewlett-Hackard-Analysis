@@ -92,7 +92,7 @@ If you take a look at ret_titles1 after this filtering one gets 33,118 value row
 the unique_titles1 file is no longer needed as it is now already unique. The number of rows in the unique_titles1 file is 33,118. This is the same as the ret_titles1 file.
 Note that the original unique_titles file had 90,398 value rows.
 This leads us to the retiring_titles1 file, shown here.
-![](')
+![](https://github.com/davidmcbee/Pewlett-Hackard-Analysis/blob/master/PewLett-Hakard-Analysis/Data/retiring_titles1.png)
 
 The redo of the retiring_titles file. The original retiring_titles file counts summed to 90,388, while the retiring_titles1 file sums to,
 you guessed it, 33,118. I believe this is the correct number.
