@@ -86,7 +86,7 @@ The reason I think it is flawed is that it did not account for two items:
 
 #### Corrections With Hire Date
 Looking at these redone files shown here
-![](https://github.com/davidmcbee/Pewlett-Hackard-Analysis/blob/master/PewLett-Hakard-Analysis/Data/redone%20files_without_hire_date.png)
+![](https://github.com/davidmcbee/Pewlett-Hackard-Analysis/blob/master/PewLett-Hakard-Analysis/Data/redone%20files_with_hire_date.png)
 
 If you take a look at ret_titles1 after this filtering one gets 33,118 value rows. This is the number of people that are in this soon to retire group. Further,
 the unique_titles1 file is no longer needed as it is now already unique. The number of rows in the unique_titles1 file is 33,118. This is the same as the ret_titles1 file.
