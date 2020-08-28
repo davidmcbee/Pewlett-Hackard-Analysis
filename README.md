@@ -28,7 +28,7 @@ resource functionality and apply data quality standards that will promote trust 
 
 ### Environment and How Analysis was Conducted
 A PostgreSQL database was installed, Postgres version 11.9. This installation includes pgAdmin. pgAdmin is the window into our database: it's where
- queries are written and executed and where results are viewed. Postgres holds the files, pgAdmin provides the access. All SQL actions take place within these two programs.
+ queries are written and executed and where results are viewed. Postgres holds the files, pgAdmin provides the access. All SQL actions take place within these two programs. Additionally, QuickDBD was used to create the Entity Relationship Diagram (ERD).
 
 ### Analysis Steps Conducted
 1. I started an initial Exploratory data Analysis (EDA) to understand the data; number of rows, columns, data types, possible joins, etc. As part of EDA, I developed an
